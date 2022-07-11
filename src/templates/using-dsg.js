@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 
 const UsingDSG = () => (
   <Layout>
-    <Seo title="Using DSG" />
+    <Seo title="Using MM" />
     <h1>
       Hello from a <b>DSG Page</b>
     </h1>
